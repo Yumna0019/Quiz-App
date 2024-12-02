@@ -2,8 +2,8 @@ import './index.css';
 
 function App() {
   return (
-    <div className="App">
-      
+    <div id="App">
+      <h1>Quiz App</h1>
     </div>
   );
 }
