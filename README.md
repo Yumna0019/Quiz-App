@@ -47,7 +47,7 @@ npm start
 ### Contributing
 Feel free to fork the repository and submit a pull request. All contributions are welcome!
 
-### Resources
+<!--### Resources
 This app was built using the guidance from [this Medium article](https://medium.com/geekculture/building-a-simple-quiz-app-using-a-rest-api-react-and-redux-5c8a85a9447f).
-
+-->
 Happy coding! 😊
