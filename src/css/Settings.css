@@ -1,0 +1,37 @@
+/* Full-page gradient background */
+.settings-container {
+    background: linear-gradient(to bottom right, #590022, #4A0017);
+    font-family: "Poppins", sans-serif;
+}
+
+/* Card styling */
+.card {
+    max-width: 400px;
+    background-color: #590022;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Typography and button hover effects */
+.text-light {
+    color: #fff !important;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 2rem;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.btn-light {
+    color: #fff;
+    background-color: #590022;
+    font-weight: bold;
+    transition: 0.3s ease-in-out;
+}
+
+.btn-light:hover {
+    color: #fff;
+    background-color: #3D0007;
+    border: 1px solid #fff;
+}
