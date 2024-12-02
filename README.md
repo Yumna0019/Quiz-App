@@ -1,4 +1,4 @@
-# 🎓 Quiz App 
+<!--# 🎓 Quiz App 
 
 A simple and interactive quiz application built with React and Redux, where users can test their knowledge on various topics. This app fetches quiz questions from an external REST API and presents them in an engaging and user-friendly interface.
 
@@ -47,7 +47,7 @@ npm start
 ### Contributing
 Feel free to fork the repository and submit a pull request. All contributions are welcome!
 
-### Resources
+<!--### Resources
 This app was built using the guidance from [this Medium article](https://medium.com/geekculture/building-a-simple-quiz-app-using-a-rest-api-react-and-redux-5c8a85a9447f).
-
+-->
 Happy coding! 😊
